@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Every journey begins with a single step"
 
 ---
 
